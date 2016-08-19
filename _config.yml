@@ -1,3 +1,4 @@
+layout_spectrum: 0.6486146387178451
 typography_spectrum: 0.6000524738337845
 color:
   brandStrength: 0.11383618414402008
@@ -5,16 +6,9 @@ color:
   saturation: 0.4858239667955786
   rhythmicContrast: 0.2880202003289014
   brandColors:
-    - '#000000'
-    - '#3A3B40'
-    - '#77788D'
-    - '#8E9DB4'
-    - '#BAB8C5'
-layout_spectrum: 0.6486146387178451
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Elevation
-navigation:
-  - name: about...
-    url: 'http://www.elevation.la/'
-    type: external
-title: simplicity is the ultimate sophistication
-description: elevated advertising and consulting
