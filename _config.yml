@@ -1,0 +1,14 @@
+layout_spectrum: 0.6486146387178451
+typography_spectrum: 0.6000524738337845
+color:
+  brandStrength: 0.11383618414402008
+  lightness: 0.5302075070794672
+  saturation: 0.4858239667955786
+  rhythmicContrast: 0.2880202003289014
+  brandColors:
+    - '#000000'
+    - '#3A3B40'
+    - '#77788D'
+    - '#8E9DB4'
+    - '#BAB8C5'
+name: Elevation
