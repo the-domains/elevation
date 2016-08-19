@@ -12,5 +12,9 @@ color:
     - '#BAB8C5'
 layout_spectrum: 0.6486146387178451
 name: Elevation
+navigation:
+  - name: about...
+    url: 'http://www.elevation.la/'
+    type: external
 title: simplicity is the ultimate sophistication
 description: elevated advertising and consulting
